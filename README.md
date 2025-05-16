@@ -1,4 +1,4 @@
-# Team Title
+# Project Title
 
 This project aims to ...
 
