@@ -23,7 +23,7 @@ Before running this project locally, ensure you ahve the following installed:
 * IDE (VS Code, PyCharm, etc.)
 * Install Python 3.10+ version > visit [python download page](https://www.python.org/downloads/)
 
-# Project Structure
+## Project Structure
 
 This project was completed in six days with the following project folder structure:
 
@@ -55,7 +55,7 @@ The analysis of this project covered the time period of #### to ####. Data sanit
 
 ...
 
-## Findings
+## Conclusions
 
 ... model used ... assumptions/limitations... results ... analysis ... conclusion
 
