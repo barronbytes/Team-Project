@@ -1,6 +1,6 @@
-# Project Title
+# Project Overview
 
-This project aims to ...
+... mention background information, objectives, goals
 
 ## Team Members
 
@@ -16,13 +16,6 @@ This project aims to ...
 * **Backend:** Python
 * **Data Science:** Pandas, Matplotlib
 
-## Prerequisites
-
-Before running this project locally, ensure you ahve the following installed:
-
-* IDE (VS Code, PyCharm, etc.)
-* Install Python 3.10+ version > visit [python download page](https://www.python.org/downloads/)
-
 ## Project Structure
 
 This project was completed in six days with the following project folder structure:
@@ -37,27 +30,34 @@ Project Structure/
 |--- .gitignore         # Git ignore rules
 |--- README.md          # Project documentation
 
+
+# Before running this project locally, ensure you have the following installed:
+* IDE (VS Code, PyCharm, etc.)
+* Install Python 3.10+ version > visit https://www.python.org/downloads/
+
+
 # Install dependencies
 pip install pandas matplotlib
 
-
 ```
 
-## Dataset
+## Executive Summary
 
-The dataset used in this project is sourced from ... For a comprehensive description of this dataset, [please read more about the documentation source here](#).
+... mention dataset (size, years), key findings, etc...
 
-## Data Context
+## Data Description
 
-The analysis of this project covered the time period of #### to ####. Data sanitation involved ...
+... mention data entities
 
-## Hypothesis
+... show EDR diagram
 
-...
+## EDA Insights
 
-## Conclusions
+... summary statistics, visualizations
 
-... model used ... assumptions/limitations... results ... analysis ... conclusion
+## KPI Insights
+
+... segmentation information, visualizations
 
 ## Credits & Contributions
 
