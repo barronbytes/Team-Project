@@ -65,7 +65,7 @@ pip install pandas matplotlib
 
 ... segmentation information, visualizations
 
-## Recommendations
+## 5. Recommendations
 
 ... next steps
 
