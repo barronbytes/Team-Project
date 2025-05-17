@@ -1,8 +1,8 @@
-# Project Overview
+# Project Title
 
-... mention background information, objectives, goals
+... one liner
 
-## Team Members
+**Team Members:**
 
 | Project Contributer | Project Role |
 |:--------:|:--------------|
@@ -11,12 +11,12 @@
 | Tiffani Lambert | Data Analyst |
 | Precious Ufomadu | Data Analyst |
 
-## Tech Stack
+**Tech Stack:**
 
 * **Backend:** Python
 * **Data Science:** Pandas, Matplotlib
 
-## Project Structure
+**Project Structure:**
 
 This project was completed in six days with the following project folder structure:
 
@@ -41,23 +41,33 @@ pip install pandas matplotlib
 
 ```
 
-## Executive Summary
+## 1. Project Overview
 
-... mention dataset (size, years), key findings, etc...
+... background information, objectives, goals
 
-## Data Description
+## 2. Executive Summary
 
-... mention data entities
+... dataset (size, years), key findings, etc...
 
-... show EDR diagram
+## 3. Data Overview
 
-## EDA Insights
+... data entity segmentation information
+
+... EDR diagram
+
+## 4. Deep Dive Overview
+
+### EDA Insights
 
 ... summary statistics, visualizations
 
-## KPI Insights
+### KPI Insights
 
 ... segmentation information, visualizations
+
+## Recommendations
+
+... next steps
 
 ## Credits & Contributions
 
