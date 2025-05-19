@@ -1,6 +1,6 @@
-# Profits, Labor, and Inputs: Unpacking Recessionary Inflation Across Publicly Traded Non-Financial Sectors
+# Exploring Trends in Housing Prices
 
-Comparative analysis of inflation drivers--profits, labor, and inputs--across six recessionary quarters during the Great Recession and COVID-19 Recession.
+Analysis of factors from a Kaggle data set.
 
 **Team Members:**
 
@@ -41,31 +41,29 @@ pip install pandas matplotlib
 
 ## 1. Project Overview
 
-... background information, objectives, goals
+...
 
 ## 2. Executive Summary
 
-... dataset (size, years), key findings, etc...
+...
 
 ## 3. Data Overview
 
-... data entity segmentation information
-
-... EDR diagram
+...
 
 ## 4. Deep Dive Overview
 
 ### EDA Insights
 
-... summary statistics, visualizations
+..
 
 ### KPI Insights
 
-... segmentation information, visualizations
+...
 
 ## 5. Recommendations
 
-... next steps
+...
 
 ## Credits & Contributions
 
