@@ -1,6 +1,6 @@
-# Project Title
+# Profits, Labor, and Inputs: Unpacking Recessionary Inflation Across Publicly Traded Non-Financial Sectors
 
-... one liner
+Comparative analysis of inflation drivers--profits, labor, and inputs--across six recessionary quarters during the Great Recession and COVID-19 Recession.
 
 **Team Members:**
 
@@ -18,7 +18,7 @@
 
 **Project Structure:**
 
-This project was completed in six days with the following project folder structure:
+Project folder structure:
 
 ``` bash
 Project Structure/
