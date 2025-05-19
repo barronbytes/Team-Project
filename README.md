@@ -18,8 +18,6 @@ Comparative analysis of inflation drivers--profits, labor, and inputs--across si
 
 **Project Structure:**
 
-Project folder structure:
-
 ``` bash
 Project Structure/
 |
