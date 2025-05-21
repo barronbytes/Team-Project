@@ -43,27 +43,21 @@ pip install pandas matplotlib
 
 ...
 
-## 2. Executive Summary
+## 2. Data Overview
 
 ...
 
-## 3. Data Overview
+## 3. Insights Overview
 
-...
+**Q1: How are rental prices distributed across the market?**
 
-## 4. Deep Dive Overview
+**Q2: Are newer rental units being built in specific zoning classifications? And Why?**
 
-### EDA Insights
+**Q3:**
 
-..
+**Q4: What is the relationship between property functionality and property full bath amounts?**
 
-### KPI Insights
-
-...
-
-## 5. Recommendations
-
-...
+**Q5:**
 
 ## Credits & Contributions
 
