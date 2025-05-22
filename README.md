@@ -49,7 +49,9 @@ pip install pandas matplotlib
 
 ## 3. Insights Overview
 
-**Q1: How are rental prices distributed across the market?**
+**Q1: What is the distribution of house sale prices in the market?**
+     
+     Answer: Based on the histogram with the KDE curve, the sales price is right-skewed, showing that most housing prices fall between $100,000 to $250,000 which is below the average. The observed graph also shows some utliers on the higer end that are above $500,000. It is important to note that the dataset used is from 2016, as such current market prices post COVID is not reflected.
 
 **Q2: Are newer rental units being built in specific zoning classifications? And Why?**
 
@@ -57,11 +59,13 @@ pip install pandas matplotlib
 
 **Q4: What is the relationship between property functionality and property full bath amounts?**
 
-**Q5: How does the number of garage cars significantly influence house prices?
+**Q5: How does the number of garage cars significantly influence house prices?**
 
-Answer: The number of garage cars has a statistically significant influence on house prices. A correlation matrix showed that GarageCars (r = 0.64) had the strongest positive correlations with SalePrice, indicating a moderate relationship. 
-A boxplot showed that median house prices increase consistently from 0 to 3-car garages, with a notable jump for 3-car garages—homes in this category which had the highest median sale prices and the widest price range, including many high-end outliers. 
-Although other features like porch size or pool area showed little correlation, the Pearson correlation test between GarageCars and SalePrice produced a p-value of 0.000, which is less than 0.05, confirming the relationship is statistically significant. This suggests that homes with larger garage capacity tend to command higher prices, though other factors also contribute.
+    Answer: The number of garage cars has a statistically significant influence on house prices. A correlation matrix showed that GarageCars (r = 0.64) had the strongest positive correlations with SalePrice, indicating a moderate relationship. 
+
+    A boxplot showed that median house prices increase consistently from 0 to 3-car garages, with a notable jump for 3-car garages—homes in this category which had the highest median sale prices and the widest price range, including many high-end outliers. 
+    
+    Although other features like porch size or pool area showed little correlation, the Pearson correlation test between GarageCars and SalePrice produced a p-value of 0.000, which is less than 0.05, confirming the relationship is statistically significant. This suggests that homes with larger garage capacity tend to command higher prices, though other factors also contribute.
 
 
 
