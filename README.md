@@ -55,7 +55,7 @@ pip install pandas matplotlib
 
 **Q2: Are newer rental units being built in specific zoning classifications? And Why?**
 
-**Q3:**
+**Q3: How are the YearRemodAdd and Heating columns related?**
 
 **Q4: What is the relationship between property functionality and property full bath amounts?**
 
