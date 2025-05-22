@@ -57,7 +57,15 @@ pip install pandas matplotlib
 
 **Q4: What is the relationship between property functionality and property full bath amounts?**
 
-**Q5:**
+**Q5: How does the number of garage cars significantly influence house prices?
+
+Answer: The number of garage cars has a statistically significant influence on house prices. A correlation matrix showed that GarageCars (r = 0.64) had the strongest positive correlations with SalePrice, indicating a moderate relationship. 
+A boxplot showed that median house prices increase consistently from 0 to 3-car garages, with a notable jump for 3-car garages—homes in this category which had the highest median sale prices and the widest price range, including many high-end outliers. 
+Although other features like porch size or pool area showed little correlation, the Pearson correlation test between GarageCars and SalePrice produced a p-value of 0.000, which is less than 0.05, confirming the relationship is statistically significant. This suggests that homes with larger garage capacity tend to command higher prices, though other factors also contribute.
+
+
+
+
 
 ## Credits & Contributions
 
