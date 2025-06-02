@@ -53,7 +53,7 @@ pip install pandas matplotlib
 
 **Answer:** Property sale volumes peaked in 2007 with 692 transactions and declined to a low of 339 in 2010. Sales remained above 620 in other years. The top three categories by volume were always Residential Low Density (RL), Residential Medium Density (RM), and Floating Village Residential (FV). RL outpaced RM in volume by a low and high of 3.7x (2008) and 6.2x (2009), respectively. The two zoning categories with the least transactions were always Residential High Density (RH) and Commercial (C), together accounting for only 1.2% to 2.9% of annual sales volume.
 
-**Q3: How are the YearRemodAdd and Heating columns related?**
+**Q3: How are the YearRemodAdd and Heating columns related?** The Yearremodadd and heating columns overlap yearly. Older houses tend to have traditional heating system while newer, modern houses have newer energy efficent soures. This shows that newer house tend to adopt more modern ways of heating as the years go.
 
 **Q4: What is the relationship between property functionality and property full bath amounts?**
 
